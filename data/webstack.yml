@@ -11,6 +11,7 @@
       logo: assets/images/logos/gitlab.png
       url: https://gitlab.mvmyun.com/
       description: 代码托管
+      qrcode: assets/images/webstack-hugo-qrcode.png
     - title: Yapi
       qrcode: assets/images/webstack-hugo-qrcode.png
       logo: assets/images/logos/yapi.png
