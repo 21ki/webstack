@@ -131,7 +131,10 @@
           logo: assets/images/logos/liqi.png
           url: https://www.1nth.com
           description: 小樊博客
-
+        - title: Bleem
+          logo: assets/images/logos/liqi.png
+          url: https://mritd.com/
+          description: 漠然
 
     - term: 界面灵感
       links:
