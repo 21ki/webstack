@@ -92,15 +92,18 @@
       logo: assets/images/logo-collapsed@2x.png
       url: http://mws.mvmyun.com/api/h5/v1/mvm/home/index.html
       description: biz-api
-    - title: apollo
+    - title: apollo线上调用url
       logo: assets/images/logo-collapsed@2x.png
       url: http://apollo-pro.mvmyun.com/configs/pie/default/application?ip=172.20.169.130&messages=%7B%22details%22%3A%7B%22pie%2Bdefault%2Bapplication%22%3A64%7D%7D&releaseKey=20210413163820-ea1aedca8f7d8ab6
-      description: apollo中心
+      description: apollo线上调用
     - title: ps-channel-ctrip
       logo: assets/images/logo-collapsed@2x.png
       url: https://dc-ctrip.mvmyun.com/actuator/health
       description: 携程后台接口
-
+    - title: apollo后台
+      logo: assets/images/logo-collapsed@2x.png
+      url: http://apollo-dev.mvmyun.com:30011/
+      description: apollo管理后台
 
 - taxonomy: 灵感采集
   icon: fa-lightbulb-o
