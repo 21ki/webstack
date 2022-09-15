@@ -138,6 +138,10 @@
           logo: assets/images/logos/liqi.png
           url: https://mritd.com/
           description: 漠然
+        - title: 视觉算法
+          logo: assets/images/logos/liqi.png
+          url: http://zhaoxuhui.top/
+          description: 图像识别，相机标定
 
     - term: 界面灵感
       links:
@@ -158,16 +162,16 @@
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
       
-    - term: 网页灵感
+    - term: kubernetes
       links:
-        - title: Awwwards
+        - title: helm仓库
           logo: assets/images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-        - title: CSS Design Awards
+          url: https://www.kubebiz.com/
+          description: helm仓库
+        - title: yaml工具
           logo: assets/images/logos/CSSDesignAwards.png
-          url: https://www.cssdesignawards.com/
-          description: Website Awards & Inspiration - CSS Gallery
+          url: https://k8syaml.com/
+          description: yaml模版
         - title: The FWA
           logo: assets/images/logos/fwa.png
           url: https://thefwa.com/
