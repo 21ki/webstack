@@ -145,18 +145,18 @@
 
     - term: 界面灵感
       links:
-        - title: Pttrns
+        - title: v2ex
           logo: assets/images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
+          url: https://www.v2ex.com/
+          description: v2ex
+        - title: Dev
           logo: assets/images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
+          url: https://dev.to/t/python
+          description: 国外论坛
+        - title: stackoverflow
           logo: assets/images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
+          url: https://stackoverflow.com/questions/tagged/python%2bpython-3.x?tab=active&page=5&pagesize=15
+          description: stackoverflow issue
         - title: Android Niceties
           logo: assets/images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
