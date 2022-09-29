@@ -172,9 +172,9 @@
           logo: assets/images/logos/CSSDesignAwards.png
           url: https://k8syaml.com/
           description: yaml模版
-        - title: The FWA
+        - title: ip检测
           logo: assets/images/logos/fwa.png
-          url: https://thefwa.com/
+          url: https://ip.skk.moe/
           description: FWA - showcasing innovation every day since 2000
         - title: Ecommercefolio
           logo: assets/images/logos/Ecommercefolio.png
