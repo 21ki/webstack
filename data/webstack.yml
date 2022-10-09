@@ -138,10 +138,10 @@
           logo: assets/images/logos/liqi.png
           url: https://mritd.com/
           description: 漠然
-        - title: 视觉算法
+        - title: ubuntu
           logo: assets/images/logos/liqi.png
-          url: http://zhaoxuhui.top/
-          description: 图像识别，相机标定
+          url: https://linuxconfig.org/ubuntu
+          description: linux，ubuntu centos系统使用
 
     - term: 界面灵感
       links:
