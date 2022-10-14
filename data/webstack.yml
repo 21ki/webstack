@@ -142,6 +142,10 @@
           logo: assets/images/logos/liqi.png
           url: https://linuxconfig.org/ubuntu
           description: linux，ubuntu centos系统使用
+        - title: 随风的博客
+          logo: assets/images/logos/liqi.png
+          url: https://jkboy.com/
+          description: tiktok，魔法墙
 
     - term: 界面灵感
       links:
