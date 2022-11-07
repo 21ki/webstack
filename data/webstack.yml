@@ -188,30 +188,30 @@
           logo: assets/images/logos/Lapa.png
           url: https://v2rayse.com/clash-v2ray/
           description: Clash to proxies
-        - title: Reeoo
+        - title: YAML
           logo: assets/images/logos/reeoo.png
-          url: http://reeoo.com/
-          description: web design inspiration and website gallery
-        - title: Designmunk
+          url: https://www.dute.org/yaml
+          description: YAML to JSON
+        - title: 订阅地址转换
           logo: assets/images/logos/designmunk.png
-          url: https://designmunk.com/
-          description: Best Homepage Design Inspiration
-        - title: Best Websites Gallery
+          url: https://acl4ssr-sub.github.io/
+          description: ACL4SSR
+        - title: 全球ping
           logo: assets/images/logos/BWG.png
-          url: https://bestwebsite.gallery/
-          description: Website Showcase Inspiration | Best Websites Gallery
-        - title: Pages
+          url: https://ping.pe/
+          description: 端口检测 全球ping
+        - title: dnlookup
           logo: assets/images/logos/pages.png
-          url: http://www.pages.xyz/
-          description: Curated directory of the best Pages
-        - title: SiteSee
+          url: https://github.com/ameshkov/dnslookup
+          description: dn工具支持tls https upd http2,3
+        - title: 国内工具收集
           logo: assets/images/logos/SiteSee.png
-          url: https://sitesee.co/
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-        - title: Site Inspire
+          url: https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76
+          description: 国内工具收集
+        - title: LinuxMirrors
           logo: assets/images/logos/siteInspire.png
-          url: https://www.siteinspire.com/
-          description: A CSS gallery and showcase of the best web design inspiration.
+          url: https://supermanito.github.io/LinuxMirrors/#/?id=-%e9%80%82%e9%85%8d%e7%b3%bb%e7%bb%9f
+          description: GNU/Linux 一键更换国内软件源脚本
         - title: WebInspiration
           logo: assets/images/logos/WebInspiration.png
           url: http://web.uedna.com/
