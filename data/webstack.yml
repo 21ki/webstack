@@ -307,32 +307,32 @@
           url: https://www.hualigs.cn/
           description: 遇见图床
 
-    - term: 平面素材
+    - term: 常用工具
       links:
-        - title: freepik
+        - title: urlencoder
           logo: assets/images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
+          url: https://www.urlencoder.org/
+          description: url格式化
+        - title: base64encoder
           logo: assets/images/logos/wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
+          url: https://www.base64encode.org/
+          description: base64加密
+        - title: 格式化工具
           logo: assets/images/logos/365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations
-        - title: Medialoot
+          url: https://prettier.io/playground/
+          description: json yaml vue 等等多装格式化工具
+        - title: json转yaml工具
           logo: assets/images/logos/Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot
-        - title: 千图网
+          url: https://jsontry.com/zh/json-yaml
+          description: json yaml工具
+        - title: 独特工具
           logo: assets/images/logos/qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站
-        - title: 千库网
+          url: https://www.dute.org/json
+          description: json
+        - title: yaml格式化(推荐使用)
           logo: assets/images/logos/qianku.png
-          url: http://588ku.com/
-          description: 免费png图片背景素材下载
+          url: https://verytoolz.com/yaml-formatter.html
+          description: yaml格式化工具
         - title: 我图网
           logo: assets/images/logos/wotu.png
           url: http://www.ooopic.com/
