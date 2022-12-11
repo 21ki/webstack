@@ -212,6 +212,10 @@
           logo: assets/images/logos/siteInspire.png
           url: https://supermanito.github.io/LinuxMirrors/#/?id=-%e9%80%82%e9%85%8d%e7%b3%bb%e7%bb%9f
           description: GNU/Linux 一键更换国内软件源脚本
+        - title: LE-Monitor
+          logo: assets/images/logos/ionicons.png
+          url: https://lework.github.io/lemonitor/#/usage
+          description: 开源软件的国内镜像站点 len大          
         - title: 检测代理隐秘性
           logo: assets/images/logos/WebInspiration.png
           url: https://whoer.net/
