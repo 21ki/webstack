@@ -233,7 +233,7 @@
 - taxonomy: Hack
   icon: fa-thumbs-up
   list: 
-    - term: ipaddress
+    - term: network
       links:
         - title: ipinfo
           logo: assets/images/logos/Iconfinder.png
@@ -251,14 +251,14 @@
           logo: assets/images/logos/iconarchive.png
           url: https://ip125.com
           description: 获取ip地址获取代理地址
-        - title: FindIcons
+        - title: MikroTik 脚本生成器
           logo: assets/images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: IcoMoonApp
+          url: https://rosjb.github.io/
+          description: ros
+        - title: 正则
           logo: assets/images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
+          url: https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md
+          description: 正则练习
         - title: easyicon
           logo: assets/images/logos/easyicon.png
           url: http://www.easyicon.net/
