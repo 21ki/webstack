@@ -259,10 +259,10 @@
           logo: assets/images/logos/IcoMoonApp.png
           url: https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md
           description: 正则练习
-        - title: easyicon
+        - title: 网站延迟检测中国版
           logo: assets/images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+          url: https://ping.chinaz.com/
+          description: ping检测中国
         - title: flaticon
           logo: assets/images/logos/flaticon.png
           url: https://www.flaticon.com/
