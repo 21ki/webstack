@@ -245,7 +245,7 @@
           description: ip欺诈评分查询
         - title: 全球ping
           logo: assets/images/logos/iconmonstr.png
-          url: https://ping.pe/
+          url: https://ping.sx/check-port
           description: 全球ping 路由跟踪
         - title: get ip address
           logo: assets/images/logos/iconarchive.png
