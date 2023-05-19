@@ -247,6 +247,10 @@
           logo: assets/images/logos/iconfont.png
           url: https://scamalytics.com/ip
           description: ip欺诈评分查询
+        - title: ip评分
+          logo: assets/images/logos/iconfont.png
+          url: https://ip123.in/#fraud_check
+          description: ip欺诈评分查询api        
         - title: 全球ping
           logo: assets/images/logos/iconmonstr.png
           url: https://ping.sx/check-port
