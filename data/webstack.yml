@@ -146,6 +146,10 @@
           logo: assets/images/logos/liqi.png
           url: https://jkboy.com/
           description: tiktok，魔法墙
+        - title: 烧饼博客
+          logo: assets/images/logos/liqi.png
+          url: https://u.sb/
+          description: debian php mysql nginx-quic       
 
     - term: 界面灵感
       links:
