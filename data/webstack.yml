@@ -36,6 +36,10 @@
       logo: assets/images/logos/chandao.png
       url: http://192.168.1.112/
       description: bug禅道平台
+    - title: Nas
+      logo: assets/images/logos/chandao.png
+      url: http://192.168.1.8:5000/
+      description: 群晖nas      
     - title: Aliyun
       logo: assets/images/logos/aliyun.png
       url: https://www.aliyun.com/
@@ -150,7 +154,16 @@
           logo: assets/images/logos/liqi.png
           url: https://u.sb/
           description: debian php mysql nginx-quic       
-
+        - title: 树辉
+          logo: assets/images/logos/liqi.png
+          url: https://vqiu.cn/
+          description: ros cloud-init pve 
+        - title: 折腾爱好者
+          logo: assets/images/logos/liqi.png
+          url: https://nova.moe/posts/
+          description: 给思域FK 换Tesla Model 3 的轮毂 vpn组网
+          
+          
     - term: 界面灵感
       links:
         - title: v2ex
@@ -369,10 +382,10 @@
           logo: assets/images/logos/psefan.png
           url: http://psefan.com/
           description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
+        - title: 网页shell工具
           logo: assets/images/logos/sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台
+          url: https://replit.com/templates
+          description: 网页shell工具
       
     - term: UI资源
       links:
