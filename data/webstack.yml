@@ -217,6 +217,10 @@
           logo: assets/images/logos/BWG.png
           url: https://ping.pe/
           description: 端口检测 全球ping
+        - title: 国外ping
+          logo: assets/images/logos/BWG.png
+          url: https://check-host.net/
+          description: 端口检测 全球ping          
         - title: dnlookup
           logo: assets/images/logos/pages.png
           url: https://github.com/ameshkov/dnslookup
@@ -311,6 +315,10 @@
       
     - term: 图床
       links:
+        - title: ipfs图床
+          logo: assets/images/logos/iconsfeed.png
+          url: https://cdn.ipfsscan.io/
+          description: ipfs图床
         - title: 聚合图床
           logo: assets/images/logos/iconsfeed.png
           url: https://www.superbed.cn
