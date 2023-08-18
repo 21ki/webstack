@@ -162,7 +162,10 @@
           logo: assets/images/logos/liqi.png
           url: https://nova.moe/posts/
           description: 给思域FK 换Tesla Model 3 的轮毂 vpn组网
-          
+        - title: 咖啡反应堆
+          logo: assets/images/logos/liqi.png
+          url: https://oo.sb/
+          description: 咖啡反应堆         
           
     - term: 界面灵感
       links:
@@ -182,6 +185,10 @@
           logo: assets/images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - title: 国外知乎
+          logo: assets/images/logos/AndroidNiceties.png
+          url: https://poe.com/Claude-2-100k
+          description: chatgpt整合版本          
       
     - term: kubernetes
       links:
@@ -249,7 +256,10 @@
           logo: assets/images/logos/ReallyGoodUX.png
           url: https://www.reallygoodux.io/
           description: A library of screenshots and examples of really good UX. Brought to you by
-
+        - title: nginx代理websocket
+          logo: assets/images/logos/ReallyGoodUX.png
+          url: https://www.chengxiaobai.com/trouble-maker/trojan-shared-443-port-scheme
+          description: nginx代理websocket
       
 - taxonomy: Hack
   icon: fa-thumbs-up
