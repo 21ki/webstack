@@ -196,6 +196,18 @@
       
     - term: kubernetes
       links:
+        - title: 浏览器时区 ip user-agent
+          logo: assets/images/logos/awwwards.png
+          url: https://webbrowsertools.com/
+          description: 浏览器时区 ip user-agent
+        - title: uuid验证
+          logo: assets/images/logos/awwwards.png
+          url: https://toolgg.com/uuid-validator.html
+          description: uuid验证
+        - title: 查看本地出口ip 短域名
+          logo: assets/images/logos/awwwards.png
+          url: http://3.0.3.0/
+          description: 3.0.3.0
         - title: helm仓库
           logo: assets/images/logos/awwwards.png
           url: https://www.kubebiz.com/
@@ -264,6 +276,10 @@
           logo: assets/images/logos/ReallyGoodUX.png
           url: https://www.chengxiaobai.com/trouble-maker/trojan-shared-443-port-scheme
           description: nginx代理websocket
+        - title: 扫描ip端口
+          logo: assets/images/logos/ReallyGoodUX.png
+          url: https://search.censys.io/
+          description: 扫描ip端口
       
 - taxonomy: Hack
   icon: fa-thumbs-up
