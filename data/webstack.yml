@@ -166,6 +166,10 @@
           logo: assets/images/logos/liqi.png
           url: https://oo.sb/
           description: 咖啡反应堆         
+        - title: SaltyLeo
+          logo: assets/images/logos/liqi.png
+          url: https://tstrs.me/archive
+          description: 物联网
           
     - term: 界面灵感
       links:
