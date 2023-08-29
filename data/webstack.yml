@@ -264,14 +264,18 @@
           logo: assets/images/logos/WebInspiration.png
           url: https://whoer.net/
           description: whoer.net
-        - title: navnav
+        - title: Online Domain Tools 
           logo: assets/images/logos/navnav.png
-          url: https://navnav.co/
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
+          url: http://online-domain-tools.com/
+          description: 多个在线网络工具，其中包括反向DNS解析工具。访问其网站，找到 "Reverse DNS Lookup" 工具，输入IP地址并点击 "Lookup" 按钮
         - title: Really Good UX
           logo: assets/images/logos/ReallyGoodUX.png
-          url: https://www.reallygoodux.io/
-          description: A library of screenshots and examples of really good UX. Brought to you by
+          url: https://dnschecker.org/all-tools.php
+          description: DNS Checker 提供了简单易用的反向DNS解析工具。访问其网站，在 "Reverse DNS Lookup" 部分输入IP地址并点击查询按钮
+        - title: MXToolbox
+          logo: assets/images/logos/ReallyGoodUX.png
+          url: https://mxtoolbox.com/NetworkTools.aspx
+          description: MXToolbox 提供了多种网络和域名工具，其中包括反向DNS解析。访问其网站，在工具列表中找到 "Reverse DNS Lookup" 工具，输入IP地址即可查询对应的域名   
         - title: nginx代理websocket
           logo: assets/images/logos/ReallyGoodUX.png
           url: https://www.chengxiaobai.com/trouble-maker/trojan-shared-443-port-scheme
@@ -280,7 +284,7 @@
           logo: assets/images/logos/ReallyGoodUX.png
           url: https://search.censys.io/
           description: 扫描ip端口
-      
+          
 - taxonomy: Hack
   icon: fa-thumbs-up
   list: 
