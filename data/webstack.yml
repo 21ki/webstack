@@ -284,6 +284,10 @@
           logo: assets/images/logos/ReallyGoodUX.png
           url: https://search.censys.io/
           description: 扫描ip端口
+        - title: ip检测
+          logo: assets/images/logos/ReallyGoodUX.png
+          url: https://ipjiance.com/
+          description: ip检测
           
 - taxonomy: Hack
   icon: fa-thumbs-up
