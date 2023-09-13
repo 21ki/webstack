@@ -64,6 +64,10 @@
       logo: assets/images/logos/github.jpg
       url: https://tool.oschina.net/regex/
       description: 正则过滤
+    - title: Nas
+      logo: assets/images/logos/github.jpg
+      url: http://192.168.1.8:5000/
+      description: 群辉Nas
       
 - taxonomy: MVM地址
   icon: fa-newspaper-o
