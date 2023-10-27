@@ -365,6 +365,10 @@
           logo: assets/images/logos/iconsfeed.png
           url: https://cdn.ipfsscan.io/
           description: ipfs图床
+        - title: 开源图床
+          logo: assets/images/logos/iconsfeed.png
+          url: https://tgtu.ikun123.com/
+          description: https://github.com/csznet/tgState     
         - title: 聚合图床
           logo: assets/images/logos/iconsfeed.png
           url: https://www.superbed.cn
