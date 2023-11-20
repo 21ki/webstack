@@ -300,6 +300,10 @@
           logo: assets/images/logos/ReallyGoodUX.png
           url: https://crypto.cloudflare.com/cdn-cgi/trace
           description: ESNI检测    
+        - title: nftables
+          logo: assets/images/logos/ReallyGoodUX.png
+          url: https://alexforsale.github.io/posts/nftables.html
+          description: nftables实例              
           
 - taxonomy: Hack
   icon: fa-thumbs-up
