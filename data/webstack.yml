@@ -177,7 +177,11 @@
         - title: sing-box
           logo: assets/images/logos/liqi.png
           url: https://idev.dev/
-          description: sing-box使用     
+          description: sing-box使用
+        - title: 零度解说
+          logo: assets/images/logos/liqi.png
+          url: https://www.freedidi.com/7587.html
+          description: Github 上超强的10款开源软件和项目
           
     - term: 界面灵感
       links:
