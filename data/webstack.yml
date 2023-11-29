@@ -68,6 +68,10 @@
       logo: assets/images/logos/github.jpg
       url: http://192.168.1.8:5000/
       description: 群辉Nas
+    - title: 优雅翻译
+      logo: assets/images/logos/github.jpg
+      url: https://quillbot.com/
+      description: 翻译优化
       
 - taxonomy: MVM地址
   icon: fa-newspaper-o
