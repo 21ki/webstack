@@ -49,7 +49,7 @@
       url: https://harbor.mvmyun.com/
       description: 发现新鲜有趣的产品
     - title: pact-broker
-      logo: assets/images/logos/harbor-icon-color.png
+      logo: assets/images/logos/pact.png
       url: https://pact-broker.mvmyun.com/
       description: 契约测试
     - title: Youtube
