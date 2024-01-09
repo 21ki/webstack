@@ -69,11 +69,11 @@
       url: https://tool.oschina.net/regex/
       description: 正则过滤
     - title: Nas
-      logo: assets/images/logos/github.jpg
+      logo: assets/images/logos/dsm.png
       url: http://192.168.1.8:5000/
       description: 群辉Nas
     - title: 优雅翻译
-      logo: assets/images/logos/github.jpg
+      logo: assets/images/logos/transate.png
       url: https://quillbot.com/
       description: 翻译优化
     - title: html转markdown
