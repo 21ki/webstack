@@ -61,7 +61,7 @@
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
     - title: GitHub
-      logo: assets/images/logos/github.jpg
+      logo: assets/images/logos/github.png
       url: https://github.com/
       description: GitHub 开源社区。
     - title: 正则过滤
