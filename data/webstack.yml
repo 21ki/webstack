@@ -472,6 +472,10 @@
           logo: assets/images/logos/sccnn.png
           url: https://replit.com/templates
           description: 网页shell工具
+        - title: 中文转unicode
+          logo: assets/images/logos/null.png
+          url: https://tools.fun/unicode.html
+          description: 中文转unicode
       
     - term: 网路尖刀
       links:
