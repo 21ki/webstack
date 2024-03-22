@@ -488,9 +488,9 @@
           logo: assets/images/logos/null.png
           url: https://tools.miku.ac/
           description: 以图找图
-        - title: utool工具
+        - title: utool工具crontab执行时间
           logo: assets/images/logos/null.png
-          url: https://tools.miku.ac/
+          url: https://tool.lu/crontab/
           description: utool工具
         - title: utool工具
           logo: assets/images/logos/null.png
@@ -500,7 +500,14 @@
           logo: assets/images/logos/null.png
           url: https://www.ssavr.com/
           description: 在线粘贴工具
-          
+        - title: 大小写转换
+          logo: assets/images/logos/null.png
+          url: https://www.bejson.com/convert/uplowercase/
+          description: 大小写转换
+        - title: 大小写转换
+          logo: assets/images/logos/null.png
+          url: https://uutool.cn/upper/
+          description: 大小写转换      
     - term: 网路尖刀
       links:
         - title: Freebiesbug
