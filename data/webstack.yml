@@ -324,6 +324,14 @@
           logo: assets/images/logos/ReallyGoodUX.png
           url: https://alexforsale.github.io/posts/nftables.html
           description: nftables实例              
+        - title: 订阅转换
+          logo: assets/images/logos/ionicons.png
+          url: https://scg.jokin.uk/
+          description: sing-box订阅转换
+        - title: ip查询
+          logo: assets/images/logos/ionicons.png
+          url: https://ipis.pages.dev/
+          description: ip查询
           
 - taxonomy: Hack
   icon: fa-thumbs-up
@@ -476,7 +484,23 @@
           logo: assets/images/logos/null.png
           url: https://tools.fun/unicode.html
           description: 中文转unicode
-      
+        - title: 以图找图
+          logo: assets/images/logos/null.png
+          url: https://tools.miku.ac/
+          description: 以图找图
+        - title: utool工具
+          logo: assets/images/logos/null.png
+          url: https://tools.miku.ac/
+          description: utool工具
+        - title: utool工具
+          logo: assets/images/logos/null.png
+          url: https://www.fly63.com/tool/unicode/
+          description: 源码https://github.com/mydearcc/tools
+        - title: 在线粘贴工具
+          logo: assets/images/logos/null.png
+          url: https://www.ssavr.com/
+          description: 在线粘贴工具
+          
     - term: 网路尖刀
       links:
         - title: Freebiesbug
