@@ -508,6 +508,10 @@
           logo: assets/images/logos/null.png
           url: https://uutool.cn/upper/
           description: 大小写转换      
+        - title: json转义
+          logo: assets/images/logos/null.png
+          url: https://www.json.cn/jsonzip/
+          description: json转义       
     - term: 网路尖刀
       links:
         - title: Freebiesbug
