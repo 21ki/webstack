@@ -194,6 +194,10 @@
           logo: assets/images/logos/liqi.png
           url: https://www.freedidi.com/7587.html
           description: Github 上超强的10款开源软件和项目
+        - title: Mac使用教程
+          logo: assets/images/logos/liqi.png
+          url: https://44maker.github.io/wiki/
+          description: Mac使用教程
           
     - term: 界面灵感
       links:
