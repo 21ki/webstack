@@ -198,6 +198,10 @@
           logo: assets/images/logos/liqi.png
           url: https://44maker.github.io/wiki/
           description: Mac使用教程
+        - title: 动手能力强的大佬
+          logo: assets/images/logos/liqi.png
+          url: https://yihong0618.github.io/gitblog/
+          description: 利用 GitHubPoster 和 GitHub Actions 备份任意用户推特
           
     - term: 界面灵感
       links:
