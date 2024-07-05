@@ -72,6 +72,14 @@
       logo: assets/images/logos/synology1.png
       url: http://192.168.1.8:5000/
       description: 群辉Nas
+    - title: status
+      logo: assets/images/logos/synology1.png
+      url: https://status.mvmyun.com/dashboard
+      description: 接口监控服务器监控
+    - title: dns
+      logo: assets/images/logos/synology1.png
+      url: https://dns.mvmyun.com:1443/#
+      description: 内网dns服务器
     - title: 优雅翻译
       logo: assets/images/logos/translate.png
       url: https://quillbot.com/
@@ -523,7 +531,11 @@
         - title: json转义
           logo: assets/images/logos/null.png
           url: https://www.json.cn/jsonzip/
-          description: json转义       
+          description: json转义      
+        - title: 二维码在线生成
+          logo: assets/images/logos/null.png
+          url: https://www.the-qrcode-generator.com/
+          description: 二维码在线生成     
     - term: 网路尖刀
       links:
         - title: Freebiesbug
