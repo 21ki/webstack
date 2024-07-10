@@ -214,7 +214,11 @@
           logo: assets/images/logos/liqi.png
           url: https://yihong0618.github.io/gitblog/
           description: 利用 GitHubPoster 和 GitHub Actions 备份任意用户推特
-          
+        - title: 敖武的博客
+          logo: assets/images/logos/liqi.png
+          url: https://playground.z.wiki/img-cloud/index.html
+          description: diy聊天室图床
+
     - term: 界面灵感
       links:
         - title: v2ex
@@ -240,6 +244,10 @@
       
     - term: kubernetes
       links:
+        - title: it工具箱
+          logo: assets/images/logos/awwwards.png
+          url: https://it-tools.tech/
+          description: 多种工具集合  
         - title: crontab
           logo: assets/images/logos/awwwards.png
           url: https://tool.lu/crontab/
