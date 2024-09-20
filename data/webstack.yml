@@ -218,6 +218,10 @@
           logo: assets/images/logos/liqi.png
           url: https://playground.z.wiki/img-cloud/index.html
           description: diy聊天室图床
+        - title: 星露谷值班站长
+          logo: assets/images/logos/liqi.png
+          url: https://www.aityp.com/nginx%e8%87%aa%e5%ae%9a%e4%b9%89ip%e7%99%bd%e5%90%8d%e5%8d%95%e9%94%99%e8%af%af%e9%a1%b5%e9%9d%a2/
+          description: Nginx自定义IP白名单错误页面       
 
     - term: 界面灵感
       links:
@@ -360,6 +364,10 @@
           logo: assets/images/logos/ionicons.png
           url: https://ipis.pages.dev/
           description: ip查询
+        - title: html xml 编码
+          logo: assets/images/logos/ionicons.png
+          url: https://mothereff.in/html-entities
+          description: HTML entity encoder/decoder
           
 - taxonomy: Hack
   icon: fa-thumbs-up
