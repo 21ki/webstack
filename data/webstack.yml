@@ -222,7 +222,14 @@
           logo: assets/images/logos/liqi.png
           url: https://www.aityp.com/nginx%e8%87%aa%e5%ae%9a%e4%b9%89ip%e7%99%bd%e5%90%8d%e5%8d%95%e9%94%99%e8%af%af%e9%a1%b5%e9%9d%a2/
           description: Nginx自定义IP白名单错误页面       
-
+        - title: 自称 ACGN 爱好者
+          logo: assets/images/logos/liqi.png
+          url: https://blog.sgdylan.com/2021/12/12/routeros-ipv6-experience/
+          description: ros-ipv6
+        - title: 虚拟化
+          logo: assets/images/logos/liqi.png
+          url: https://www.rosnas.com/
+          description: pve esxi nas等      
     - term: 界面灵感
       links:
         - title: v2ex
