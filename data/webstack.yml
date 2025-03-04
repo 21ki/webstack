@@ -379,7 +379,10 @@
           logo: assets/images/logos/ionicons.png
           url: https://mothereff.in/html-entities
           description: HTML entity encoder/decoder
-          
+        - title: 黑洞文件分享
+          logo: assets/images/logos/ionicons.png
+          url: https://wormhole.app/
+          description: 文件分享
 - taxonomy: Hack
   icon: fa-thumbs-up
   list: 
