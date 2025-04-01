@@ -569,7 +569,11 @@
         - title: 二维码在线生成
           logo: assets/images/logos/null.png
           url: https://www.the-qrcode-generator.com/
-          description: 二维码在线生成     
+          description: 二维码在线生成 
+        - title: ocr在线
+          logo: assets/images/logos/null.png
+          url: https://web.baimiaoapp.com/
+          description: ocr在线转text      
     - term: 网路尖刀
       links:
         - title: Freebiesbug
