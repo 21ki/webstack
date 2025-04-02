@@ -387,6 +387,30 @@
           logo: assets/images/logos/ionicons.png
           url: https://wormhole.app/
           description: 文件分享
+        - title: whois查询
+          logo: assets/images/logos/ionicons.png
+          url: https://w.is/
+          description: whois查询
+        - title: ios限免网站
+          logo: assets/images/logos/ionicons.png
+          url: https://free.apprcn.com/category/ios/
+          description: 限免网站
+        - title: 最受欢迎的ai工具
+          logo: assets/images/logos/ionicons.png
+          url: https://aitools.xyz/popular-ai-tools
+          description: 最受欢迎的ai工具
+        - title: 白板工具
+          logo: assets/images/logos/ionicons.png
+          url: https://drawnix.com/
+          description: 在线白板
+        - title: 图片转base64
+          logo: assets/images/logos/ionicons.png
+          url: https://www.base64-image.de/
+          description: 图片转base64
+        - title: 在线命令行查询
+          logo: assets/images/logos/ionicons.png
+          url: https://git.io/linux
+          description: 在线命令行查询
 - taxonomy: Hack
   icon: fa-thumbs-up
   list: 
