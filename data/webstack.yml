@@ -411,6 +411,14 @@
           logo: assets/images/logos/ionicons.png
           url: https://git.io/linux
           description: 在线命令行查询
+        - title: 热点新闻开源版本
+          logo: assets/images/logos/ionicons.png
+          url: https://newsnow.busiyi.world/
+          description: 热点新闻开源版本
+        - title: 热点新闻开源
+          logo: assets/images/logos/ionicons.png
+          url: https://ideaflow.top/hotSearch
+          description: 热点新闻开源
 - taxonomy: Hack
   icon: fa-thumbs-up
   list: 
