@@ -419,6 +419,19 @@
           logo: assets/images/logos/ionicons.png
           url: https://ideaflow.top/hotSearch
           description: 热点新闻开源
+        - title: whois
+          logo: assets/images/logos/ionicons.png
+          url: https://whoai.cc/
+          description: 域名查询
+        - title: 苹果试用
+          logo: assets/images/logos/ionicons.png
+          url: https://tf.kook.qzz.io/
+          description: TestFlight-Apple
+        - title: dns在线查询
+          logo: assets/images/logos/ionicons.png
+          url: https://dnschecker.org/all-tools.php
+          description: dns在线查询
+                    
 - taxonomy: Hack
   icon: fa-thumbs-up
   list: 
