@@ -524,7 +524,15 @@
           logo: assets/images/logos/InstantLogoSearch.png
           url: https://www.hualigs.cn/
           description: 遇见图床
-
+        - title: url图片查看器
+          logo: assets/images/logos/InstantLogoSearch.png
+          url: https://websiteimagextractor.com/
+          description: 在线查看网址的图片
+        - title: http图片查看器
+          logo: assets/images/logos/InstantLogoSearch.png
+          url: https://imageonline.io/image-viewer/
+          description: 在线查看网址的图片
+          
     - term: 常用工具
       links:
         - title: urlencoder
