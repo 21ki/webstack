@@ -136,7 +136,10 @@
       logo: assets/images/logo-collapsed@2x.png
       url: http://apollo-dev.mvmyun.com:30011/
       description: apollo管理后台
-
+    - title: 七陌客服系统呼叫中心
+      logo: assets/images/logo-collapsed@2x.png
+      url: http://kf7.7moor.com/login
+      description: 七陌客服系统呼叫中心
 - taxonomy: 灵感采集
   icon: fa-lightbulb-o
   list: 
