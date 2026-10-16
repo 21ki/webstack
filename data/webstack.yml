@@ -437,6 +437,10 @@
   list: 
     - term: network
       links:
+        - title: ip-dns-lake
+          logo: assets/images/logos/Iconfinder.png
+          url: https://ip.net.coffee/
+          description: ip查询  
         - title: ipinfo
           logo: assets/images/logos/Iconfinder.png
           url: https://ipinfo.io
@@ -453,6 +457,10 @@
           logo: assets/images/logos/iconmonstr.png
           url: https://ping.sx/check-port
           description: 全球ping 路由跟踪
+        - title: 全球ping
+          logo: assets/images/logos/iconmonstr.png
+          url: https://antping.com/ping
+          description: 全球ping 路由跟踪          
         - title: get ip address
           logo: assets/images/logos/iconarchive.png
           url: https://ip125.com
