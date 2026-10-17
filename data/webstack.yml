@@ -239,6 +239,10 @@
           logo: assets/images/logos/Pttrns.png
           url: https://www.v2ex.com/
           description: v2ex
+        - title: tools工具json格式化
+          logo: assets/images/logos/Pttrns.png
+          url: https://tools.bocchi.vip/tools/json/
+          description: tools          
         - title: Dev
           logo: assets/images/logos/CollectUI.png
           url: https://dev.to/t/python
