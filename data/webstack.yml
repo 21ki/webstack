@@ -438,7 +438,10 @@
           logo: assets/images/logos/ionicons.png
           url: https://dnschecker.org/all-tools.php
           description: dns在线查询
-                    
+         - title: docker镜像监控
+          logo: assets/images/logos/ionicons.png
+          url: https://status.anye.xyz/
+          description: docker镜像监控
 - taxonomy: Hack
   icon: fa-thumbs-up
   list: 
