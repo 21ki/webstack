@@ -451,6 +451,10 @@
           logo: assets/images/logos/Iconfinder.png
           url: https://ip.net.coffee/
           description: ip查询  
+        - title: ip健康分检测指纹时区
+          logo: assets/images/logos/Iconfinder.png
+          url: https://ipx.al/
+          description: ip健康分检测
         - title: ipinfo
           logo: assets/images/logos/Iconfinder.png
           url: https://ipinfo.io
